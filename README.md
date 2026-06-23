@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hallo,
+ich heiße Gerhard Kämpfer, wohne in Merseburg und habe den Umgang mit Github erst neuerdings begonnen, obwohl ich mich schon seit Jahrzehnten mit Programmierung beschäftige.
+So habe ich eben auch jetzt erst entdeckt, dass man diese Methode der Fortschrittskontrolle sehr gut auch bei anderen Problemen einsetzen kann: etwabei der gemeinsamen Erarbeitung einer Orintierungslauf-Karte. Da sind ja im allgemenen mehrere Kartenaufnehmer parallel am Werk und bearbeiten jeder ein bestimmtes Flurstück. Zum Schluss müssen die einzelnen Teile zusammengefügt werden.Aber vielleich will mein Partner schon mal sehen,wie ich mit meinem Teilstück vorangekommen bin und wie dasGanze anden Rändern deer Teilgebiete zusammenpasst. So was eben.
 
 <!--
 **gerkae99/gerkae99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
